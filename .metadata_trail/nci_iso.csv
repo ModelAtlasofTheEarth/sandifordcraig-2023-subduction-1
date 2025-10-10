@@ -1,0 +1,21 @@
+Field,Value
+Title*,Plate bending earthquakes and the strength distribution of the lithosphere
+Dataset version*,
+Abstract*,"This study investigates the dynamics and constitutive behaviour of the oceanic lithosphere as it bends and yields during subduction. Two main observational constraints are considered: the maximum bending moment that can be supported by the lithosphere, and the inferred neutral plane depth in bending. We particularly focus on regions of old lithosphere where the ‘apparent’ neutral plane depth is about 30 km. We use subduction modelling approaches to investigate these flexural characteristics. We reassess bending moment estimates from a range of previous studies, and show a significant convergence towards what we call the ‘intermediate’ range of lithosphere strength: weaker than some classical models predict, but stronger than recent inferences at seamounts. We consider the non-uniqueness that arises due to the trade-offs in strength as well background (tectonic) stress state. We outline this problem with several end-member models, which differ in regard to relative strength in the brittle and ductile regimes. We evaluate the consistency of these models in terms of a range of constraints, primarily the seismic expression of the outer rise. We show that a 30 km neutral plane depth implies that net slab pull is not greater than about 2 TN m−1. In contrast, models with low brittle strength imply that regions with a 30 km neutral plane depth are under moderate net axial compression. Under these conditions, reverse faulting is predicted beneath the neutral plane at depths &amp;gt;30 km. We show that moderate variations in background stress have a large impact on the predicted anelastic dissipation. We suggest brittle reverse faulting is a marginal phenomenon which may be inhibited by moderate changes in background stress."
+Topic category*,geoscientificInformation
+Field of research (FOR)*,https://linked.data.gov.au/def/anzsrc-for/2020/370401
+License*,Creative Commons Attribution 4.0 International
+Dataset lineage information*,"Tectonic plates are recycled into the mantle through subduction, where they bend and deform in various ways, such as brittle failure. This process creates deep sea trenches and results in characteristic earthquake patterns and gravity anomalies. In this study, we used a numerical model to investigate plate bending dynamics, complementing simpler approaches like flexural yield strength envelopes. We focused on the competition between bending stress and sources of net in-plane stress, such as slab pull, which influences the plate's neutral plane depth. It is difficult to reconcile the 'apparent' neutral plane depth with a net slab pull force greater than about 2 TN/m. Deviatoric compression in subducting plates more easily explains reverse earthquakes at depths of 20-50 km in the bending plate."
+Dataset format*,
+Dataset status,None
+Maintenance frequency*,as needed
+Temporal extents* (if applicable),
+Spatial extents* (if applicable),
+Owner* (if applicable),
+Credit,
+Supplemental or supporting material,
+Local NCI file path,/g/data/nm08/MATE/sandifordcraig-2023-subduction-1
+DOI (NCI Internal Field),
+Keyword/s,"Dynamics of lithosphere, Lithospheric flexure, Subduction, Earthquakes"
+Author 1,"Sandiford, Dan, Unknown, Unknown, https://orcid.org/0000-0002-2207-6837"
+Author 2,"Craig, Timothy J, Unknown, Unknown, https://orcid.org/0000-0003-2198-9172"
